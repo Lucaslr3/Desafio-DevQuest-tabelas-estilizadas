@@ -8,19 +8,14 @@
  .conteudo-da-tabela{
     color: #fff;
     padding: 10px;
+    background-color: #424250;
 }
 
 .cabecalho-moda{
     background-color: #BB86FC;
-
 }
 
 .cabecalho-casa{
     background-color: #00C4B4;
-    
-}
-
-.fundo-tabela{
-    background-color: #424250;
-}
+ }
 
